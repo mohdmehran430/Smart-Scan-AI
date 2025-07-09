@@ -1,5 +1,5 @@
 # Smart Scan AI
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7MCUqJTA144bRIEHewkvr2D1V5QtsEl6rAUzvh8eVbwcIFd3RexAE13A6Pibv1l-Lo0&usqp=CAU){: width="100px" height="100px"}
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7MCUqJTA144bRIEHewkvr2D1V5QtsEl6rAUzvh8eVbwcIFd3RexAE13A6Pibv1l-Lo0&usqp=CAU)
 A Flutter application that helps users track their nutritional intake by analyzing food product labels and meals using AI.
 
 ## Features
