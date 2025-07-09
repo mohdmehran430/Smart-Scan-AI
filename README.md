@@ -1,5 +1,5 @@
 # Smart Scan AI
-![Alt Text](https://www.foodscan.app/static/media/hero_image.d37800b08ee2b47461b6.png)
+<img src="www.foodscan.app/static/media/hero_image.d37800b08ee2b47461b6.png" alt="GitHub Logo" width="100">)
 A Flutter application that helps users track their nutritional intake by analyzing food product labels and meals using AI.
 
 ## Features
